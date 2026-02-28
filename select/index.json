@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "その淑女ふしだらにつき",
+  "base_artist": "東京事変",
+  "createdAt": "2026-02-28T04:44:03.506643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "その淑女ふしだらにつき",
+      "artist": "Tokyo Incidents",
+      "has_synced": false,
+      "path": "select/01_その淑女ふしだらにつき_Tokyo_Incidents.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "その淑女ふしだらにつき",
+      "artist": "Tokyo Jihen",
+      "has_synced": false,
+      "path": "select/02_その淑女ふしだらにつき_Tokyo_Jihen.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Lady Is a Tramp [その淑女ふしだらにつき]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/03_The_Lady_Is_a_Tramp_[その淑女ふしだらにつき]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "その淑女ふしだらにつき",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/04_その淑女ふしだらにつき_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "その淑女ふしだらにつき",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_その淑女ふしだらにつき_東京事変.txt"
+    }
+  ]
+}
